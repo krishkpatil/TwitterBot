@@ -1,4 +1,4 @@
-# twitter-bot
+# TwitterBot
 Twitter-Bot is a python program which uses tweepy and OpenAi to generate tweets by it's own and then post them on twitter.
 
 ## Dependencies
