@@ -1,12 +1,12 @@
 from sys import api_version
 import tweepy, openai, random
 
-api_key = 'YDed5euNKzfM8kuQSW2OlvH2L'
-api_key_secret = 'UgN7lKSGhGUcn37dXjb6tNAiQgppjnNytQZ1XOChXxMqvIN9Gi'
-access_key = "1222898182658510855-X4RLTxXJ8T3ShfXaph6XelDRfCrROw"
-access_secret = "IBoidmnvBQC9cXCdzLx5JgqIQIN0yCBPOeWZHoI4X02MK"
+api_key = 'YOUR API KEY'
+api_key_secret = 'YOUR API KEY'
+access_key = "YOUR API KEY"
+access_secret = "YOUR API KEY"
 
-openai_key = "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"
+openai_key = "YOUR API KEY"
 
 auth = tweepy.OAuthHandler(api_key, api_key_secret)
 auth.set_access_token(access_key, access_secret)
